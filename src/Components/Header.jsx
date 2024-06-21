@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <h1>KAISAR AHMAD BHAT</h1>
-      <h2>SOFTWARE DEVELOPER</h2>
+      <h2>Software Engineer</h2>
     </header>
   );
 }
